@@ -1,6 +1,8 @@
 # WIP: A Puppet module to install for BirdNET Pi
 
-This is a Puppet module which will be designed to install all the required packages and services to get your Rasperry Pi ready to use https://github.com/kahst/BirdNET-Analyzer
+This is a Puppet module which will be designed to install all the required packages and services to get your Rasperry Pi ready to use https://github.com/kahst/BirdNET-Analyzer.
+
+Based on work done on https://github.com/mcguirepr89/BirdNET-Pi
 
 ## Installation
 
